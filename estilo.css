@@ -1,0 +1,33 @@
+@font-face {
+    font-family: chips ;
+    src: url(fuentes/Spicy\ Chips.ttf);
+}
+
+@font-face {
+    font-family: dancing_script ;
+    src: url(fuentes/DancingScript-VariableFont_wght.ttf);
+}
+
+#titulo{
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    color: red;
+    font-family: chips;
+}
+
+h2{
+    color: blue;
+}
+
+#fonline{
+    font-family: dancing_script;
+}
+
+#fi2{
+    font-family: 'Croissant One', cursive;
+}
+
+#fi3{
+    font-family: 'Kenia', cursive;
+}
